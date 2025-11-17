@@ -8,4 +8,4 @@ Output
    simple interest = p*t*r
 
 
-######
+######3
